@@ -1,0 +1,2 @@
+- removed line 391 : too many comments + breaking pandas
+- removed columns >41 : garbage

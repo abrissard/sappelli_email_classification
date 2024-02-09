@@ -1,0 +1,52 @@
+What are the two main e-mail acts in the message? (You can only give one if it's the sole act of the message)
+The options are:
+- request: A request asks (or orders) the recipient to perform some activity. A question is also considered a request (for delivery of information)
+- propose: A propose message proposes a joint activity, i.e., asks the recipient to perform some activity and commits the sender as well, provided the recipient agrees to the request. A typical example is an email suggesting a joint meeting
+- commit: A commit message commits the sender to some future course of action, or confirms the sender’s intent to comply with some previously described course of action
+- deliver: A deliver message delivers something, e.g., some information, a PowerPoint presentation, the URL of a website, the answer to a question, a message sent “FYI”, or an opinion
+- amend: An amend message amends an earlier proposal. Like a proposal, the message involves both a commitment and a request. However, while a proposal is associated with a new task, an amendment is a suggested modification of an already-proposed task
+- refuse: A refuse message rejects a meeting/action/task or declines an invitation/ proposal
+- greet: A greet message thank someone, congratulate, apologize, greet, or welcomes the recipient(s)
+- remind: A reminder message reminds recipients of coming deadline(s) or threats to keep commitment
+
+What type of response is expected? This dimension has ordinal values, consisting of:
+- ignore: There is no realistic expectation that the recipients will properly read the email, let alone respond to them
+- accountable non-answer : Recipient is expected to engage with the message or its attachments, but there is no reply required
+- postponed reply: The messages requires a reply but not immediately
+- immediate reply: The message requires a reply as soon as possible
+
+What was the reason to send the message? 
+- administrative procedure: The message is part of an administrative procedure, such as financial arrangements or the organization of a meeting
+- legal procedure: The message is part of a legal procedure
+- internal collaboration: The message is part of a collaboration between people within the same company, such as messages related to internal projects
+- external collaboration: The message is part of a collaboration between people that are not working for the same company
+- travel planning: The message is part of a travel plan, such as a confirmation of a hotel booking
+- employment arrangements: The message is about employment arrangements, such as messages related to job seeking or job applications
+- logistic arrangements: The message is about logistic arrangement. This includes general support and technical support
+- personal: The message is of a personal, non work related, nature
+- other
+
+How many tasks for the recipient are explicitly stated in the message, ranging from 0 to 3 ?
+
+For each task found, provide the following informations :
+- A short (one sentence maximum) description of the task.
+
+- Is the task associated with a certain location? 4-point ordinal scale (very low, low, high, very high). For example is a meeting supposed to take place at a certain location, then the spatial sensitivity is very high; the task can only be executed there.
+
+-  Is the task associated with a certain time? 4-point ordinal scale (very low, low, high, very high). For example is the task supposed to be executed at a certain time, then the time sensitivity is very high.
+
+- What is the type of the task? categorical, consisting of:
+physical: The task requires physical action. For example 'Do the groceries' or 'Get flowers'
+informational: The task requires knowledge. For example 'When was Einstein born?' or 'Can you write a report about Einstein?'
+procedural: The task has a procedural nature; it is mainly administrative. For example 'Can you plan a meeting'
+
+- What is the subject of the task/ What is the task about? categorical, consisting of:
+product: e.g. 'Get flowers'
+service: e.g. 'Fix this problem for me'
+acknowledgement: e.g. 'Write me a recommendation letter'
+announcement: e.g. 'Send a message that the meeting location has changed'
+decision: e.g. 'Decide which flowers you prefer?'
+reservation: e.g. 'Confirm my reservation for room X'
+event: e.g. 'Make a schedule for event X'
+meeting: e.g. 'Confirm that you can meet at 10.30 '
+instructions: e.g. 'Provide instructions how I can solve this bug'
