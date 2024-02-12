@@ -1,6 +1,6 @@
-# Project Title
+# Email classification using LLMs on Sappelli dataset
 
-This project is a collection of Jupyter notebooks and datasets used for training and evaluating machine learning models.
+This project is aimed at evaluating the capabilities of LLMs on email classification using a dataset from [Assessing e-mail intent and tasks in e-mail messages, *Sappelli et al.* (2016)](https://www.sciencedirect.com/science/article/pii/S0020025516301438#sec0003).
 
 ## Project Structure
 
@@ -40,7 +40,6 @@ This project is a collection of Jupyter notebooks and datasets used for training
 
 ## Files Description
 
-- [`act1_evaluate.ipynb`](command:_github.copilot.openRelativePath?%5B%22act1_evaluate.ipynb%22%5D "act1_evaluate.ipynb"): Notebook for evaluating the model trained on `act1` dataset.
 - [`act1_train.ipynb`](command:_github.copilot.openRelativePath?%5B%22act1_train.ipynb%22%5D "act1_train.ipynb"): Notebook for training the model on `act1` dataset.
 - [`numta_train.ipynb`](command:_github.copilot.openRelativePath?%5B%22numta_train.ipynb%22%5D "numta_train.ipynb"): Notebook for training the model on `numta` dataset.
 - [`data/`](command:_github.copilot.openRelativePath?%5B%22data%2F%22%5D "data/"): Directory containing all the datasets used in this project.
