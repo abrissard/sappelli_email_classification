@@ -8,9 +8,9 @@ This project is aimed at evaluating the capabilities of LLMs on email classifica
 - `numta_train.ipynb`: Notebook for training the model on `numta` classification task..
 - `multi_label_classification.ipynb`: Notebook for training the model on multilabel classification task.
 - `data/`: Directory containing all the datasets used in this project.
-- `models/`: Directory where trained models are saved.
 - `preprocessing/`: Directory containing notebooks for data preprocessing.
-- `results/`: Directory where the results of model evaluation are saved.
+- `models/`: Directory where trained models are saved. *Offline*
+- `results/`: Directory where the results of model evaluation are saved. *Offline*
 
 ## How to Run
 
