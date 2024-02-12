@@ -1,6 +1,6 @@
 # Email classification using LLMs on Sappelli dataset
 
-This project is aimed at evaluating the capabilities of LLMs on email classification using a dataset from [Assessing e-mail intent and tasks in e-mail messages, *Sappelli et al.* (2016)(https://www.sciencedirect.com/science/article/pii/S0020025516301438#sec0003).
+This project is aimed at evaluating the capabilities of LLMs on email classification using a dataset from [Assessing e-mail intent and tasks in e-mail messages, *Sappelli et al.* (2016)](https://doi.org/10.1016/j.ins.2016.03.002).
 
 ## Files Description
 
