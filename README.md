@@ -4,9 +4,9 @@ This project is aimed at evaluating the capabilities of LLMs on email classifica
 
 ## Files Description
 
-- `act1_train.ipynb`: Notebook for training the model on `act1` dataset.
-- `numta_train.ipynb`: Notebook for training the model on `numta` dataset.
-- `multi_label_classification.ipynb`: Notebook for training the model on `numta` dataset.
+- `act1_train.ipynb`: Notebook for training the model on `act1` classification task.
+- `numta_train.ipynb`: Notebook for training the model on `numta` classification task..
+- `multi_label_classification.ipynb`: Notebook for training the model on multilabel classification task.
 - `data/`: Directory containing all the datasets used in this project.
 - `models/`: Directory where trained models are saved.
 - `preprocessing/`: Directory containing notebooks for data preprocessing.
